@@ -21,4 +21,4 @@ Java e Python
 
 ## 📧 Email: ana.karine06@aluno.ifce.edu.br
 
-![alt text]([URL_da_imagem_ou_GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F584482857885447588%2F&psig=AOvVaw2mBuSBn5p153EuPQJUoGtN&ust=1742047178089000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiDvMzdiYwDFQAAAAAdAAAAABAS))
+![alt text][URL_da_imagem_ou_GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F584482857885447588%2F&psig=AOvVaw2mBuSBn5p153EuPQJUoGtN&ust=1742047178089000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiDvMzdiYwDFQAAAAAdAAAAABAS]
