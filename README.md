@@ -20,5 +20,3 @@ Projeto de Banco de Dados usando a Linguagem de Programação Structured Query L
 Java e Python
 
 ## 📧 Email: ana.karine06@aluno.ifce.edu.br
-
-![Badge](![image](https://github.com/user-attachments/assets/3402c271-4c1e-467c-b5ec-f91324d451f9))
